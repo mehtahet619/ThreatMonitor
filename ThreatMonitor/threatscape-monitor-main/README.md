@@ -17,6 +17,21 @@ ThreatMonitor is a comprehensive security monitoring tool designed to identify, 
 - **React**: Frontend user interface
 - **Tailwind CSS**: UI styling
 
+
+## Contributing
+Contributions are welcome! To contribute, follow these steps:
+
+-Fork the repository.
+-Create a new branch.
+-Commit your changes.
+-Open a pull request with a description of your changes.
+
+## License
+This project is licensed under the MIT License.
+
+Contact
+For questions or further assistance, please contact the project owner at mehtahet619@gmail.com
+
 ## Installation
 
 ### Clone the repository:
